@@ -9,3 +9,6 @@ def superinestable():
 
 def moar():
 	return 123
+
+def marcFunc():
+	return "marc"
