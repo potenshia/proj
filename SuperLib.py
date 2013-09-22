@@ -12,3 +12,6 @@ def moar():
 
 def marcFunc():
 	return "marc"
+
+def uriFunc():
+	return "uri"
