@@ -1,4 +1,3 @@
-def main():
-	print "Hello World!"
+from SuperLib import *
 
-main()
+print foo()
