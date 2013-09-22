@@ -4,5 +4,5 @@ def foo():
 
 def superinestable():
 	a = 1
-	b = 0 + a - a
+	b = 2 + a - a
 	return a/b
